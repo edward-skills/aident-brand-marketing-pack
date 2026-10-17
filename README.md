@@ -2,7 +2,9 @@
 
 # Aident Brand Marketing Pack
 
-> **Current use / 当前授权：Invocation-only.** 可安装、调用并使用生成结果；不授权转售、再分发或发布修改版 Skill。Third-party/font rights and historical MIT grants are retained. [License](aident-brand-marketing-pack/LICENSE.md) · [Agent setup, Muse AI & Grok Bot](aident-brand-marketing-pack/references/agent-compatibility.md) · [Version boundary](aident-brand-marketing-pack/references/licensing-history.md)
+> **Current use: invocation-only.** Install and invoke for your own or client projects; use the resulting outputs. Redistribution, resale and publication of modified Skill packages are not authorized. Historical permissions and separately licensed materials retain their terms.
+>
+> **当前授权：仅调用使用。** 可安装、调用并使用生成结果；不授权转售、再分发或发布修改版 Skill。历史授权与单独许可的素材条款继续有效。 [License](aident-brand-marketing-pack/LICENSE.md) · [Agent setup, Muse AI & Grok Bot](aident-brand-marketing-pack/references/agent-compatibility.md) · [Version boundary](aident-brand-marketing-pack/references/licensing-history.md)
 
 
 An invocation-only, cross-agent Skill for building a complete, editable brand marketing asset library from either an existing brand or a new brand idea. Its default document follows the [anonymized reference-pack blueprint](aident-brand-marketing-pack/references/reference-pack-blueprint.md), without redistributing the source document's brand-specific content or media.
