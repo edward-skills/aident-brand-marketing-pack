@@ -1,7 +1,7 @@
 ---
 name: aident-brand-marketing-pack
 description: Build a reference-shaped brand marketing pack from an existing brand or a new idea. Write complete copy, collect and verify full-quality final image/video files when authorized, coordinate production for missing media when requested, and deliver an editable cloud document with a durable media library.
-license: MIT
+license: Proprietary. LICENSE.md contains the invocation-only terms.
 metadata:
   version: 0.4.0
   author: Edward-J-create
@@ -9,7 +9,13 @@ metadata:
   repository: https://github.com/Edward-J-create/aident-brand-marketing-pack
 ---
 
+
 # Aident Brand Marketing Pack
+
+For host setup, Meta Muse AI / Grok Bot capability boundaries and current usage rights, see [cross-agent use](references/agent-compatibility.md). Follow the production workflow below unchanged.
+
+
+
 
 ## **Aident Loadout Platform**
 
