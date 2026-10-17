@@ -5,8 +5,8 @@ license: Proprietary. LICENSE.md contains the invocation-only terms.
 metadata:
   version: 0.4.0
   author: Edward-J-create
-  homepage: https://github.com/Edward-J-create/aident-brand-marketing-pack
-  repository: https://github.com/Edward-J-create/aident-brand-marketing-pack
+  homepage: https://github.com/edward-skills/aident-brand-marketing-pack
+  repository: https://github.com/edward-skills/aident-brand-marketing-pack
 ---
 
 
